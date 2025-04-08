@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: MainEntrance
   m_EditorClassIdentifier: 
   locationName: 'Main Entrance '
-  locationDesc: Enter the house nd explore.
+  locationDesc: Enter the house and explore.
   north: {fileID: 11400000, guid: 3af3fb8047fea014cbbe037c5fb0df5c, type: 2}
   east: {fileID: 0}
   south: {fileID: 0}

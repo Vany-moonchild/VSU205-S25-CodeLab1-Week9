@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cb55915ea73ab04c82c3032ebca66ab, type: 3}
+  m_Name: Deck
+  m_EditorClassIdentifier: 
+  locationName: Deck
+  locationDesc: 'This is the outdoor deck, there is a gazeebo and couches to sit
+    on. '
+  north: {fileID: 0}
+  east: {fileID: 11400000, guid: 65be57d4a37e8504394a46d1b8ee844d, type: 2}
+  south: {fileID: 11400000, guid: 936c69846113f724488b2f9b60197e59, type: 2}
+  west: {fileID: 0}
+  image: {fileID: 21300000, guid: 0793b1b7fa54bfd4d88cd54b10899470, type: 3}

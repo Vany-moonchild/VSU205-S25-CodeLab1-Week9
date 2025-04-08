@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9cb55915ea73ab04c82c3032ebca66ab, type: 3}
-  m_Name: Lounge
+  m_Name: Foyer
   m_EditorClassIdentifier: 
-  locationName: Lounge
-  locationDesc: 'There are some nice couches to nap on here. '
-  north: {fileID: 0}
+  locationName: Foyer
+  locationDesc: 'A hall with several doors along it, where should you go? '
+  north: {fileID: 11400000, guid: 8041cecf1a300634b840240bc2ce0e66, type: 2}
   east: {fileID: 11400000, guid: d9f8eb096cb3a084e8391223c30dc16e, type: 2}
   south: {fileID: 11400000, guid: ed7f3519e5e79a649a1bf2b682c7c461, type: 2}
   west: {fileID: 11400000, guid: 8756e7aef1857a745baf79c148de8cdb, type: 2}
-  image: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  image: {fileID: 21300000, guid: c357ccbfb3d06644fbfd8aeda3b1370a, type: 3}

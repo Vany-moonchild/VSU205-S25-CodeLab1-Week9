@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9cb55915ea73ab04c82c3032ebca66ab, type: 3}
-  m_Name: AdminArea
+  m_Name: Dining Area
   m_EditorClassIdentifier: 
-  locationName: Admin Area
-  locationDesc: 'There are many admins located here. '
-  north: {fileID: 0}
+  locationName: Dining Room
+  locationDesc: 'A table with six chairs around it sits in the middle of this room. '
+  north: {fileID: 11400000, guid: 351eb690af3199d49a8663c1e16c335d, type: 2}
   east: {fileID: 11400000, guid: 3af3fb8047fea014cbbe037c5fb0df5c, type: 2}
   south: {fileID: 0}
   west: {fileID: 0}
-  image: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  image: {fileID: 21300000, guid: 583d00125d52d9544ba2efd412d9a209, type: 3}
